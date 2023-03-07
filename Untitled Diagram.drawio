@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T14:12:51.059Z" agent="5.0 (Windows)" etag="G9bjaatt37QenyXwZa0Y" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T14:19:06.136Z" agent="5.0 (Windows)" etag="LkC0kn3B6V3-spITUS10" version="21.0.2" type="github">
   <diagram name="Page-1" id="0lqaLw0KwuMHd98hEDAo">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uLwCh9YelWLCMgWNnBfe-1" value="VPC" style="shape=mxgraph.ibm.box;prType=vpc;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=2;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="560" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="uLwCh9YelWLCMgWNnBfe-2" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="uLwCh9YelWLCMgWNnBfe-1">
+          <mxGeometry x="40" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uLwCh9YelWLCMgWNnBfe-3" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" vertex="1" parent="uLwCh9YelWLCMgWNnBfe-1">
+          <mxGeometry x="320" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
